@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ovoroshylo3"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/DemonWizard016"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <p align="center">
   <img align="center" src="./pics/banner.png" style = "width: -webkit-fill-available;"/>
@@ -8,7 +8,7 @@
 </h1>
 <p>
 &nbsp;
-Resourceful Software Engineer with over 7 years of experience in full-stack block development and leading product cycle from conception to completion.
+Resourceful Software Engineer with over 7 years of experience in full-stack blockchain development and leading product cycle from conception to completion.
 I want a successful outcome for your project even if it is not with me. I think every time a client succeeds here we all win. So even if you just want my opinion, I would be happy to give it.
 </p>
 
@@ -114,5 +114,25 @@ I want a successful outcome for your project even if it is not with me. I think 
       </a>
       <br>Powershell
     </td>
+  </tr>
+  <tr>
+      <td align="center" width="96">
+        <a>
+          <img src="./pics/cshop.png" width="48" height="48" alt="C#" />
+        </a>
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
+        </a>
+        <br>Ethereum
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="./pics/solidity.svg" width="48" height="48" alt="Ethereum" />
+        </a>
+        <br>Solidity
+      </td>
   </tr>
 </table>
