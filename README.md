@@ -8,7 +8,7 @@
 </h1>
 <p>
 &nbsp;
-Resourceful Software Engineer with over 7 years of experience in full-stack blockchain development and leading product cycle from conception to completion.
+Resourceful Software Engineer with over 7 years of experience in full-stack development and leading product cycle from conception to completion.
 I want a successful outcome for your project even if it is not with me. I think every time a client succeeds here we all win. So even if you just want my opinion, I would be happy to give it.
 </p>
 
